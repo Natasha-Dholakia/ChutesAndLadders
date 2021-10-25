@@ -1,9 +1,5 @@
 /*
-        *   Instructor: Natasha Dholakia
-        *         Date: 28 Jan 2021
-        *      Student: Natasha Dholakia
-        *   Assignment: HW07
-        *
+        
         *   Compile: javac-algs4 ChutesAndLaddersSTART.java
         *
         *       Run: java-algs4 ChutesAndLaddersSTART 4 [four player game]
